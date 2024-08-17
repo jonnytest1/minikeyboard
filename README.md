@@ -14,5 +14,10 @@ if you have a different keyboard for which this works please send me a pr to inc
 
 confirmed working:
 1189:8890 / ch57x / maybe ch552 keyboards from aliexpress like https://www.aliexpress.us/item/3256804794211891.html and similar
+
+<img src="image.png"
+     alt="Markdown Monster icon"
+     style="height:200px" />
+
 ignore layout on software, position knobs on the right side and count keys off from left to right for each row starting at the top (eg if you have 6 keys total in 2 rows, use keys 1 thru 6 in the software not just the first 3 on the first 2 rows)
 any keyboard with vendor id 1189/product id 8890 and max of 16 keys and 3 knobs should work even if layers and rgb aren't supported
