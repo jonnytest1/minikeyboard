@@ -30,4 +30,7 @@ confirmed working:
 ignore layout on software, position knobs on the right side and count keys off from left to right for each row starting at the top (eg if you have 6 keys total in 2 rows, use keys 1 thru 6 in the software not just the first 3 on the first 2 rows)
 any keyboard with vendor id 1189/product id 8890 and max of 16 keys and 3 knobs should work even if layers and rgb aren't supported
 
+https://github.com/jonnytest1/minikeyboard/issues/5: "4 Keys USB Mechanical Keyboard Hot Swap Mini Keyboard Custom Programming Knob Keyboard RGB Programming Macro"
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/51bee264-2ac7-413a-8e51-604fa9c6eefd" />
+
 
